@@ -3,7 +3,7 @@ html {
 }
 
 div {
-  font-size: 2em;     /* 글자크기는 몇 픽셀? */
+  font-size: 2em;     /* 글자크기는 몇 픽셀? -> */
 }
 
 p {
@@ -16,5 +16,5 @@ p {
 span {
   /* text-decoration: wavy underline tomato;   물결선언 : wavy */
   /* text-decoration: dotted underline overline blue 4px; 점선선언 : dotted / font-size가 아니라 text-decoration에 4px 지정한겁니다. */
-  text-decoration: dashed line-through deeppink 2px;
+  text-decoration: dashed line-through deeppink 2px; /* 파선선언 : dashed */
 }
